@@ -1,0 +1,11 @@
+html,
+body {
+    background-color: #000000;
+    color: #20deff;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20% 0;
+}
